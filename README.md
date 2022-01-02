@@ -6,8 +6,8 @@ From Kaggle Fake News challenge, the data is from kgp talkie that manually check
 - Bag of Words of the real and fake news.
 - Stemming
 - Tolkenizing
-- Embedding representation
+- Embedding Representation
 - Predictive Model : LSTM Model (Keras)
-- Confusion matrix
-- accuracy score
-- classification report
+- Confusion Matrix
+- Accuracy Score
+- Classification Report
